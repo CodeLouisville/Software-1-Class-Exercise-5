@@ -1,4 +1,4 @@
-# Software 1 - Class Exercise 6
+# Software 1 - Class Exercise 5
 ## Goals
 - Use an extension method to add functionality to a class you wouldn't normally have access to.
 
